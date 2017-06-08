@@ -28,8 +28,8 @@ Aplikasi ini dapat menampilkan film yang sedang diputar sekarang maupun film yan
 
 ## Screenshot
 
-![Screenshot](https://github.com/NashaSalsabila/TugasPribadiAndroid/blob/master/Screenshots/1.png "Screenshot")
-![Screenshot](https://github.com/NashaSalsabila/TugasPribadiAndroid/blob/master/Screenshots/2.png "Screenshot")
-![Screenshot](https://github.com/NashaSalsabila/TugasPribadiAndroid/blob/master/Screenshots/3.png "Screenshot")
-![Screenshot](https://github.com/NashaSalsabila/TugasPribadiAndroid/blob/master/Screenshots/4.png "Screenshot")
-![Screenshot](https://github.com/NashaSalsabila/TugasPribadiAndroid/blob/master/Screenshots/5.png "Screenshot")
+![Screenshot](https://github.com/NashaSalsabila/TugasPribadiAndroid/blob/master/1.png "Screenshot")
+![Screenshot](https://github.com/NashaSalsabila/TugasPribadiAndroid/blob/master/2.png "Screenshot")
+![Screenshot](https://github.com/NashaSalsabila/TugasPribadiAndroid/blob/master/3.png "Screenshot")
+![Screenshot](https://github.com/NashaSalsabila/TugasPribadiAndroid/blob/master/4.png "Screenshot")
+![Screenshot](https://github.com/NashaSalsabila/TugasPribadiAndroid/blob/master/5.png "Screenshot")
